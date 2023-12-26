@@ -1,2 +1,2 @@
-# C_Algorithm
-C language Algorithm
+# Algorithm
+Algorithm
